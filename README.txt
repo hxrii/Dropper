@@ -14,7 +14,7 @@ Demonstration of behavior
 - In the second console, execute the dropper as a victim with the command 
     - python3 ./dropper.py
 
-- Our client has successfully connected to our server.
+- Our client has successfully connected to the server.
 
 - To verify that the dropper has served its purpose, list the directory where the dropper is located and to see that a new file malware.py has been created. 
 - For project demo purposes, the "malicious" code is just a simple command to print short text. 
